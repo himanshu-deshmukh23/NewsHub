@@ -41,7 +41,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/news-subscription-app.git
+   git clone https://github.com/himanshu-deshmukh23/NewsHub
    ```
 
 2. Navigate to the project directory:
