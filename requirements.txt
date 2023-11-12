@@ -1,0 +1,18 @@
+Flask~=2.3.3
+Flask-Login==0.7.0
+Flask-Mail==0.9.1
+Flask-SQLAlchemy==3.3.0
+requests==2.26.0
+celery~=5.3.4
+redis==4.0.3
+email-validator==1.1.2
+SQLAlchemy==1.4.25
+psycopg2==2.9.2  # PostgreSQL database driver (replace with your database choice)
+alembic==1.7.4  # Database migrations
+WTForms~=3.1.0
+beautifulsoup4==4.10.0  # HTML parsing
+lxml==4.7.3  # XML and HTML processing
+schedule==1.1.0  # Task scheduling
+
+pandas~=2.0.3
+newsapi~=0.1.1
