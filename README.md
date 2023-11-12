@@ -25,7 +25,7 @@ The News Subscription Web App is designed to provide users with a personalized n
 - Topic subscription functionality
 - Daily news updates delivered via email
 - Responsive and user-friendly interface
-- Integration with Flask, Bootstrap, SQLAlchemy, and Celery
+- Integration with Flask, SQLAlchemy, and Celery
 
 ## Getting Started
 
