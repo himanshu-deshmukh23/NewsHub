@@ -47,7 +47,7 @@ Make sure you have the following installed:
 2. Navigate to the project directory:
 
    ```bash
-   cd news-subscription-app
+   cd NewsHub
    ```
 
 3. Install dependencies:
